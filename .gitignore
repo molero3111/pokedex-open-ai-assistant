@@ -1,0 +1,4 @@
+.idea
+.env
+venv/
+pokedex_venv/
